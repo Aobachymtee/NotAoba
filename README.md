@@ -1,2 +1,2 @@
 # NotAoba
-Just a weeb learn how to code
+Discord bot project ( Closed )
