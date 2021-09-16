@@ -1,0 +1,23 @@
+{
+  "name": "satana",
+  "version": "2.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappador/satana.git"
+  },
+  "author": "Conner & Kappador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kappador/satana/issues"
+  },
+  "homepage": "https://github.com/Kappador/satana#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "lodash": "^4.17.19",
+    "nodejs": "0.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
